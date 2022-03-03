@@ -145,7 +145,7 @@
     // Browser globals
     root.Nanobar = Nanobar    
   }
-}(this))
+}(window||this))
 
 
 /* usage
